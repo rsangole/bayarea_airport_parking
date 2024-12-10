@@ -1,0 +1,16 @@
+{
+    "image": "hatmatrix/tslabeler:latest",
+    "mounts": [
+      "source=${localEnv:RENV_PATHS_CACHE},target=/root/renv/cache,type=bind,consistency=cache"
+    ],
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-python.python",
+          "ms-azuretools.vscode-docker",
+          "Posit.shiny",
+          "mhutchie.git-graph"
+        ]
+      }
+    }
+  }
