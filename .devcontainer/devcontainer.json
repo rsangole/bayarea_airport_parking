@@ -9,7 +9,8 @@
             "mhutchie.git-graph",
             "ms-vscode-remote.remote-containers",
             "charliermarsh.ruff",
-            "quarto.quarto"
+            "quarto.quarto",
+            "GitHub.copilot"
         ]
       }
     }
