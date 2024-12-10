@@ -18,7 +18,13 @@ jobs:
       with:
         username: ${{ vars.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_TOKEN }}
-            
+  
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: cd docker && ./docker-build.sh
+      run: cd docker && docker build --platform linux/amd64 -t hatmatrix/bayarea_airport_parking:latest .
+
+
+    - uses: actions/checkout@v4
+    - name: Push docker image
+      run: cd docker && docker push hatmatrix/bayarea_airport_parking:latest
+    
