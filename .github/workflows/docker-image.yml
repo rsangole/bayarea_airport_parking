@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: docker build . --platform linux/amd64 --file Dockerfile --tag hatmatrix/bayarea_airport_parking:$(date +%s)
+      run: cd docker && ./docker-build.sh
