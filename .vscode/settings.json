@@ -1,6 +1,5 @@
 {
     // Python
-    // "python.defaultInterpreterPath": "/usr/local/bin/python3", // Check your python path, if exists in your Docker image
     // "jupyter.interactiveWindowMode": "perFile",
     // VSCode setup
     // "path-autocomplete.pathMappings": {
@@ -19,15 +18,5 @@
     "editor.minimap.showSlider": "always",
     "vim.highlightedyank.enable": true,
     "vim.smartRelativeLine": true,
-    "codelm.codelmBehavior.F-SuggestCompletionsEverywhere": true,
-    "codelm.userdata.B-GithubUserName": "rsangole",
-    "codelm.userdata.D-HighlightTrackedCompletions": false,
-    "r.lsp.promptToInstall": false
-    // Additional Optional Settings
-    // "workbench.startupEditor":"none",
-    // "workbench.iconTheme": "VSCode Great Icons", // optional
-    // "workbench.colorTheme": "Visual Studio Light", // optional
-    // "diffEditor.ignoreTrimWhitespace": false, // optional
-    // "explorer.confirmDragAndDrop": false,
-    // "explorer.confirmDelete": false, // optional
+    "python.defaultInterpreterPath": "/opt/venv/bin/python"
 }

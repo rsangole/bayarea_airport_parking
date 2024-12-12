@@ -17,13 +17,15 @@ gc_all = soup.find_all(class_="garageCard")
 
 # Get the current date and time in PST
 pst = pytz.timezone("US/Pacific")
-current_time_pst = datetime.now(pst)
+current_time_pst = datetime.now(tz=pst)
 current_date = current_time_pst.strftime("%Y-%m-%d")
 current_time = current_time_pst.strftime("%H:%M:%S")
 
 # Create a DataFrame with the extracted data
 df = pl.DataFrame(
     {
+        "date": [current_date for _ in gc_all],
+        "time": [current_time for _ in gc_all],
         "garage": [_.find("div", class_="garageCard__title").text for _ in gc_all],
         "spots": [
             int(
@@ -41,14 +43,17 @@ df = pl.DataFrame(
             )
             for _ in gc_all
         ],
-        "date": [current_date for _ in gc_all],
-        "time": [current_time for _ in gc_all],
     }
 )
 
-# Append the data to a CSV file
+# Ensure the directory exists
 csv_file = "data/data.csv"
+os.makedirs(os.path.dirname(csv_file), exist_ok=True)
+
+# Append the data to a CSV file
 if os.path.exists(csv_file):
-    df.write_csv(csv_file, mode="a", has_header=False)
+    with open(csv_file, mode="a") as f:
+        df.write_csv(f, include_header=False)
 else:
-    df.write_csv(csv_file)
+    with open(csv_file, mode="w") as f:
+        df.write_csv(f, include_header=True)
