@@ -23,9 +23,6 @@ jobs:
           hatmatrix/bayarea_airport_parking:latest \
           /opt/venv/bin/python fetch_data.py
 
-    # - name: Run fetch_data script
-    #   run: python fetch_data.py
-
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
@@ -34,4 +31,4 @@ jobs:
         git commit -m 'Updated data.csv - $(date)'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
