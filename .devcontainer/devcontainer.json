@@ -10,7 +10,8 @@
             "ms-vscode-remote.remote-containers",
             "charliermarsh.ruff",
             "quarto.quarto",
-            "GitHub.copilot"
+            "GitHub.copilot",
+            "github.vscode-github-actions"
         ]
       }
     }
