@@ -14,7 +14,7 @@ dependencies = [
     { name = "jsonschema" },
     { name = "narwhals" },
     { name = "packaging" },
-    { name = "typing-extensions", marker = "python_full_version < '3.14' and python_full_version >= '3.12'" },
+    { name = "typing-extensions", marker = "python_full_version < '3.14'" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/16/b1/f2969c7bdb8ad8bbdda031687defdce2c19afba2aa2c8e1d2a17f78376d8/altair-5.5.0.tar.gz", hash = "sha256:d960ebe6178c56de3855a68c47b516be38640b73fb3b5111c2a9ca90546dd73d", size = 705305 }
 wheels = [
@@ -28,7 +28,7 @@ source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "idna" },
     { name = "sniffio" },
-    { name = "typing-extensions", marker = "python_full_version < '3.13' and python_full_version >= '3.12'" },
+    { name = "typing-extensions", marker = "python_full_version < '3.13'" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/f6/40/318e58f669b1a9e00f5c4453910682e2d9dd594334539c7b7817dabb765f/anyio-4.7.0.tar.gz", hash = "sha256:2f834749c602966b7d456a7567cafcb309f96482b5081d14ac93ccd457f9dd48", size = 177076 }
 wheels = [
@@ -89,6 +89,7 @@ dependencies = [
     { name = "gt" },
     { name = "plotly" },
     { name = "polars" },
+    { name = "pytz" },
     { name = "quarto" },
     { name = "requests" },
     { name = "shiny" },
@@ -100,6 +101,7 @@ requires-dist = [
     { name = "gt", specifier = ">=0.3.15" },
     { name = "plotly", specifier = ">=5.24.1" },
     { name = "polars", specifier = ">=1.17.1" },
+    { name = "pytz", specifier = ">=2024.2" },
     { name = "quarto", specifier = ">=0.1.0" },
     { name = "requests", specifier = ">=2.32.3" },
     { name = "shiny", specifier = ">=1.2.1" },
@@ -776,6 +778,15 @@ wheels = [
 ]
 
 [[package]]
+name = "pytz"
+version = "2024.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/3a/31/3c70bf7603cc2dca0f19bdc53b4537a797747a58875b552c8c413d963a3f/pytz-2024.2.tar.gz", hash = "sha256:2aa355083c50a0f93fa581709deac0c9ad65cca8a9e9beac660adcbd493c798a", size = 319692 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/11/c3/005fcca25ce078d2cc29fd559379817424e94885510568bc1bc53d7d5846/pytz-2024.2-py2.py3-none-any.whl", hash = "sha256:31c7c1817eb7fae7ca4b8c7ee50c72f93aa2dd863de768e1ef4245d426aa0725", size = 508002 },
+]
+
+[[package]]
 name = "pywin32"
 version = "308"
 source = { registry = "https://pypi.org/simple" }
@@ -988,7 +999,7 @@ dependencies = [
     { name = "prompt-toolkit", marker = "platform_system != 'Emscripten'" },
     { name = "python-multipart" },
     { name = "questionary", marker = "platform_system != 'Emscripten'" },
-    { name = "setuptools", marker = "python_full_version >= '3.12'" },
+    { name = "setuptools" },
     { name = "starlette" },
     { name = "typing-extensions" },
     { name = "uvicorn", marker = "platform_system != 'Emscripten'" },
