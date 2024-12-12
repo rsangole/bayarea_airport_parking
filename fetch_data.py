@@ -47,7 +47,7 @@ df = pl.DataFrame(
 )
 
 # Append the data to a CSV file
-csv_file = "data.csv"
+csv_file = "data/data.csv"
 if os.path.exists(csv_file):
     df.write_csv(csv_file, mode="a", has_header=False)
 else:
