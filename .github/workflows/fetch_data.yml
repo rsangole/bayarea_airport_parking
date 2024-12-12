@@ -3,9 +3,6 @@ name: Fetch Data
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  push:
-    branches:
-      - main
 
 jobs:
   fetch_data:
