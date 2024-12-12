@@ -46,6 +46,8 @@ df = pl.DataFrame(
     }
 )
 
+print(df)
+
 # Ensure the directory exists
 csv_file = "data/data.csv"
 os.makedirs(os.path.dirname(csv_file), exist_ok=True)

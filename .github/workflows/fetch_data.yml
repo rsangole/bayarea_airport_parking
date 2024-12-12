@@ -21,11 +21,11 @@ jobs:
           -v ${{ github.workspace }}:/workspace \
           -w /workspace \
           hatmatrix/bayarea_airport_parking:latest \
-          bash fetch_data.sh
-          # /opt/venv/bin/python fetch_data.py
+          # bash fetch_data.sh
+          /opt/venv/bin/python fetch_data.py
 
-    - name: Run fetch_data script
-      run: python fetch_data.py
+    # - name: Run fetch_data script
+    #   run: python fetch_data.py
 
     - name: Commit and push changes
       run: |
