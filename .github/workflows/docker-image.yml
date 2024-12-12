@@ -1,0 +1,30 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Login to Docker Hub
+      uses: docker/login-action@v3
+      with:
+        username: ${{ vars.DOCKERHUB_USERNAME }}
+        password: ${{ secrets.DOCKERHUB_TOKEN }}
+  
+    - uses: actions/checkout@v4
+    - name: Build the Docker image
+      run: cd docker && docker build --platform linux/amd64 -t hatmatrix/bayarea_airport_parking:latest .
+
+
+    - uses: actions/checkout@v4
+    - name: Push docker image
+      run: cd docker && docker push hatmatrix/bayarea_airport_parking:latest
+    
