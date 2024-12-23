@@ -489,3 +489,473 @@ date,time,garage,spots,occupancy
 2024-12-15,21:07:50, International Garage G,622,56
 2024-12-15,21:07:50, ParkFAST,134,43
 2024-12-15,21:07:50, Long Term Garage,2522,62
+2024-12-15,22:10:13, Domestic Garage,2499,49
+2024-12-15,22:10:13, International Garage A,728,56
+2024-12-15,22:10:13, International Garage G,663,53
+2024-12-15,22:10:13, ParkFAST,134,43
+2024-12-15,22:10:13, Long Term Garage,2628,60
+2024-12-15,23:07:45, Domestic Garage,2612,47
+2024-12-15,23:07:45, International Garage A,847,49
+2024-12-15,23:07:45, International Garage G,741,47
+2024-12-15,23:07:45, ParkFAST,135,43
+2024-12-15,23:07:45, Long Term Garage,2786,58
+2024-12-16,00:10:20, Domestic Garage,2738,44
+2024-12-16,00:10:20, International Garage A,1012,39
+2024-12-16,00:10:20, International Garage G,786,44
+2024-12-16,00:10:20, ParkFAST,134,43
+2024-12-16,00:10:20, Long Term Garage,2875,57
+2024-12-16,01:08:03, Domestic Garage,2856,42
+2024-12-16,01:08:03, International Garage A,1174,29
+2024-12-16,01:08:03, International Garage G,842,40
+2024-12-16,01:08:03, ParkFAST,134,43
+2024-12-16,01:08:03, Long Term Garage,2987,55
+2024-12-16,02:08:01, Domestic Garage,2789,43
+2024-12-16,02:08:01, International Garage A,1264,23
+2024-12-16,02:08:01, International Garage G,857,39
+2024-12-16,02:08:01, ParkFAST,134,43
+2024-12-16,02:08:01, Long Term Garage,3019,54
+2024-12-16,03:06:39, Domestic Garage,2790,43
+2024-12-16,03:06:39, International Garage A,1133,31
+2024-12-16,03:06:39, International Garage G,969,31
+2024-12-16,03:06:39, ParkFAST,155,34
+2024-12-16,03:06:39, Long Term Garage,3025,54
+2024-12-16,04:12:01, Domestic Garage,2859,42
+2024-12-16,04:12:01, International Garage A,1038,37
+2024-12-16,04:12:01, International Garage G,929,34
+2024-12-16,04:12:01, ParkFAST,154,35
+2024-12-16,04:12:01, Long Term Garage,2998,55
+2024-12-16,05:13:53, Domestic Garage,2704,45
+2024-12-16,05:13:53, International Garage A,1013,39
+2024-12-16,05:13:53, International Garage G,865,38
+2024-12-16,05:13:53, ParkFAST,148,37
+2024-12-16,05:13:53, Long Term Garage,3219,51
+2024-12-16,06:06:54, Domestic Garage,2433,50
+2024-12-16,06:06:54, International Garage A,845,49
+2024-12-16,06:06:54, International Garage G,798,43
+2024-12-16,06:06:54, ParkFAST,147,38
+2024-12-16,06:06:54, Long Term Garage,3147,52
+2024-12-16,07:07:24, Domestic Garage,2184,56
+2024-12-16,07:07:24, International Garage A,689,58
+2024-12-16,07:07:24, International Garage G,711,49
+2024-12-16,07:07:24, ParkFAST,136,42
+2024-12-16,07:07:24, Long Term Garage,3042,54
+2024-12-16,08:08:04, Domestic Garage,2030,59
+2024-12-16,08:08:04, International Garage A,564,66
+2024-12-16,08:08:04, International Garage G,674,52
+2024-12-16,08:08:04, ParkFAST,132,44
+2024-12-16,08:08:04, Long Term Garage,2986,55
+2024-12-16,09:06:51, Domestic Garage,1960,60
+2024-12-16,09:06:51, International Garage A,419,75
+2024-12-16,09:06:51, International Garage G,619,56
+2024-12-16,09:06:51, ParkFAST,129,45
+2024-12-16,09:06:51, Long Term Garage,2798,58
+2024-12-16,10:08:53, Domestic Garage,1366,72
+2024-12-16,10:08:53, International Garage A,683,59
+2024-12-16,10:08:53, International Garage G,591,58
+2024-12-16,10:08:53, ParkFAST,127,46
+2024-12-16,10:08:53, Long Term Garage,2763,58
+2024-12-16,11:05:58, Domestic Garage,1333,73
+2024-12-16,11:05:58, International Garage A,640,61
+2024-12-16,11:05:58, International Garage G,595,58
+2024-12-16,11:05:58, ParkFAST,129,45
+2024-12-16,11:05:58, Long Term Garage,2760,58
+2024-12-16,12:07:50, Domestic Garage,1226,75
+2024-12-16,12:07:50, International Garage A,549,67
+2024-12-16,12:07:50, International Garage G,582,59
+2024-12-16,12:07:50, ParkFAST,130,45
+2024-12-16,12:07:50, Long Term Garage,2759,58
+2024-12-16,13:06:34, Domestic Garage,1190,76
+2024-12-16,13:06:34, International Garage A,553,66
+2024-12-16,13:06:34, International Garage G,602,57
+2024-12-16,13:06:34, ParkFAST,129,45
+2024-12-16,13:06:34, Long Term Garage,2787,58
+2024-12-16,14:06:43, Domestic Garage,1299,74
+2024-12-16,14:06:43, International Garage A,557,66
+2024-12-16,14:06:43, International Garage G,630,55
+2024-12-16,14:06:43, ParkFAST,129,45
+2024-12-16,14:06:43, Long Term Garage,2814,57
+2024-12-16,15:06:52, Domestic Garage,1442,71
+2024-12-16,15:06:52, International Garage A,590,64
+2024-12-16,15:06:52, International Garage G,684,51
+2024-12-16,15:06:52, ParkFAST,128,46
+2024-12-16,15:06:52, Long Term Garage,2864,57
+2024-12-16,16:29:49, Domestic Garage,1572,68
+2024-12-16,16:29:49, International Garage A,725,56
+2024-12-16,16:29:49, International Garage G,744,47
+2024-12-16,16:29:49, ParkFAST,130,45
+2024-12-16,16:29:49, Long Term Garage,2931,56
+2024-12-16,17:34:52, Domestic Garage,1624,67
+2024-12-16,17:34:52, International Garage A,605,63
+2024-12-16,17:34:52, International Garage G,542,61
+2024-12-16,17:34:52, ParkFAST,130,45
+2024-12-16,17:34:52, Long Term Garage,2939,56
+2024-12-16,18:33:35, Domestic Garage,2076,58
+2024-12-16,18:33:35, International Garage A,605,63
+2024-12-16,18:33:35, International Garage G,550,61
+2024-12-16,18:33:35, ParkFAST,131,44
+2024-12-16,18:33:35, Long Term Garage,3002,55
+2024-12-16,19:20:04, Domestic Garage,2049,58
+2024-12-16,19:20:04, International Garage A,543,67
+2024-12-16,19:20:04, International Garage G,568,60
+2024-12-16,19:20:04, ParkFAST,131,44
+2024-12-16,19:20:04, Long Term Garage,3033,54
+2024-12-16,20:08:47, Domestic Garage,2128,57
+2024-12-16,20:08:47, International Garage A,569,66
+2024-12-16,20:08:47, International Garage G,578,59
+2024-12-16,20:08:47, ParkFAST,131,44
+2024-12-16,20:08:47, Long Term Garage,3082,53
+2024-12-16,21:07:21, Domestic Garage,2144,56
+2024-12-16,21:07:21, International Garage A,678,59
+2024-12-16,21:07:21, International Garage G,644,54
+2024-12-16,21:07:21, ParkFAST,128,46
+2024-12-16,21:07:21, Long Term Garage,3132,53
+2024-12-16,22:09:52, Domestic Garage,2192,55
+2024-12-16,22:09:52, International Garage A,770,53
+2024-12-16,22:09:52, International Garage G,689,51
+2024-12-16,22:09:52, ParkFAST,132,44
+2024-12-16,22:09:52, Long Term Garage,3218,51
+2024-12-16,23:07:34, Domestic Garage,2267,54
+2024-12-16,23:07:34, International Garage A,850,48
+2024-12-16,23:07:34, International Garage G,736,48
+2024-12-16,23:07:34, ParkFAST,134,43
+2024-12-16,23:07:34, Long Term Garage,3296,50
+2024-12-17,00:09:39, Domestic Garage,2439,50
+2024-12-17,00:09:39, International Garage A,1011,39
+2024-12-17,00:09:39, International Garage G,788,44
+2024-12-17,00:09:39, ParkFAST,134,43
+2024-12-17,00:09:39, Long Term Garage,3347,49
+2024-12-17,01:07:38, Domestic Garage,2523,49
+2024-12-17,01:07:38, International Garage A,1180,28
+2024-12-17,01:07:38, International Garage G,840,40
+2024-12-17,01:07:38, ParkFAST,135,43
+2024-12-17,01:07:38, Long Term Garage,3431,48
+2024-12-17,02:07:40, Domestic Garage,2567,48
+2024-12-17,02:07:40, International Garage A,1267,23
+2024-12-17,02:07:40, International Garage G,911,35
+2024-12-17,02:07:40, ParkFAST,135,43
+2024-12-17,02:07:40, Long Term Garage,3464,48
+2024-12-17,03:06:07, Domestic Garage,2557,48
+2024-12-17,03:06:07, International Garage A,1190,28
+2024-12-17,03:06:07, International Garage G,903,36
+2024-12-17,03:06:07, ParkFAST,136,42
+2024-12-17,03:06:07, Long Term Garage,3466,48
+2024-12-17,04:11:41, Domestic Garage,2505,49
+2024-12-17,04:11:41, International Garage A,1108,33
+2024-12-17,04:11:41, International Garage G,860,39
+2024-12-17,04:11:41, ParkFAST,142,40
+2024-12-17,04:11:41, Long Term Garage,3445,48
+2024-12-17,05:13:43, Domestic Garage,2564,48
+2024-12-17,05:13:43, International Garage A,1060,36
+2024-12-17,05:13:43, International Garage G,841,40
+2024-12-17,05:13:43, ParkFAST,138,42
+2024-12-17,05:13:43, Long Term Garage,3391,49
+2024-12-17,06:07:03, Domestic Garage,2332,52
+2024-12-17,06:07:03, International Garage A,897,46
+2024-12-17,06:07:03, International Garage G,775,45
+2024-12-17,06:07:03, ParkFAST,135,43
+2024-12-17,06:07:03, Long Term Garage,3324,50
+2024-12-17,07:07:04, Domestic Garage,2099,57
+2024-12-17,07:07:04, International Garage A,717,57
+2024-12-17,07:07:04, International Garage G,695,51
+2024-12-17,07:07:04, ParkFAST,134,43
+2024-12-17,07:07:04, Long Term Garage,3257,51
+2024-12-17,08:08:02, Domestic Garage,1987,60
+2024-12-17,08:08:02, International Garage A,611,63
+2024-12-17,08:08:02, International Garage G,650,54
+2024-12-17,08:08:02, ParkFAST,125,47
+2024-12-17,08:08:02, Long Term Garage,3215,51
+2024-12-17,09:06:47, Domestic Garage,1933,61
+2024-12-17,09:06:47, International Garage A,505,69
+2024-12-17,09:06:47, International Garage G,618,56
+2024-12-17,09:06:47, ParkFAST,122,48
+2024-12-17,09:06:47, Long Term Garage,3175,52
+2024-12-17,10:08:58, Domestic Garage,1808,63
+2024-12-17,10:08:58, International Garage A,428,74
+2024-12-17,10:08:58, International Garage G,584,58
+2024-12-17,10:08:58, ParkFAST,118,50
+2024-12-17,10:08:58, Long Term Garage,3116,53
+2024-12-17,11:06:04, Domestic Garage,1746,64
+2024-12-17,11:06:04, International Garage A,370,78
+2024-12-17,11:06:04, International Garage G,576,59
+2024-12-17,11:06:04, ParkFAST,119,50
+2024-12-17,11:06:04, Long Term Garage,3093,53
+2024-12-17,12:07:32, Domestic Garage,1679,66
+2024-12-17,12:07:32, International Garage A,253,85
+2024-12-17,12:07:32, International Garage G,554,61
+2024-12-17,12:07:32, ParkFAST,119,50
+2024-12-17,12:07:32, Long Term Garage,3049,54
+2024-12-17,13:06:14, Domestic Garage,1732,65
+2024-12-17,13:06:14, International Garage A,235,86
+2024-12-17,13:06:14, International Garage G,553,61
+2024-12-17,13:06:14, ParkFAST,119,50
+2024-12-17,13:06:14, Long Term Garage,3146,52
+2024-12-17,14:06:28, Domestic Garage,1684,66
+2024-12-17,14:06:28, International Garage A,521,68
+2024-12-17,14:06:28, International Garage G,374,73
+2024-12-17,14:06:28, ParkFAST,119,50
+2024-12-17,14:06:28, Long Term Garage,3170,52
+2024-12-17,15:06:48, Domestic Garage,1738,65
+2024-12-17,15:06:48, International Garage A,571,65
+2024-12-17,15:06:48, International Garage G,445,68
+2024-12-17,15:06:48, ParkFAST,119,50
+2024-12-17,15:06:48, Long Term Garage,3188,52
+2024-12-17,16:28:50, Domestic Garage,1931,61
+2024-12-17,16:28:50, International Garage A,602,64
+2024-12-17,16:28:50, International Garage G,532,62
+2024-12-17,16:28:50, ParkFAST,121,49
+2024-12-17,16:28:50, Long Term Garage,3217,51
+2024-12-17,17:34:53, Domestic Garage,2041,58
+2024-12-17,17:34:53, International Garage A,618,63
+2024-12-17,17:34:53, International Garage G,573,59
+2024-12-17,17:34:53, ParkFAST,122,48
+2024-12-17,17:34:53, Long Term Garage,3203,52
+2024-12-17,18:31:56, Domestic Garage,2144,56
+2024-12-17,18:31:56, International Garage A,650,61
+2024-12-17,18:31:56, International Garage G,536,62
+2024-12-17,18:31:56, ParkFAST,121,49
+2024-12-17,18:31:56, Long Term Garage,3257,51
+2024-12-17,19:15:39, Domestic Garage,2153,56
+2024-12-17,19:15:39, International Garage A,679,59
+2024-12-17,19:15:39, International Garage G,538,62
+2024-12-17,19:15:39, ParkFAST,121,49
+2024-12-17,19:15:39, Long Term Garage,3284,50
+2024-12-17,20:08:12, Domestic Garage,2222,55
+2024-12-17,20:08:12, International Garage A,661,60
+2024-12-17,20:08:12, International Garage G,541,61
+2024-12-17,20:08:12, ParkFAST,123,48
+2024-12-17,20:08:12, Long Term Garage,3310,50
+2024-12-17,21:07:14, Domestic Garage,2242,54
+2024-12-17,21:07:14, International Garage A,691,58
+2024-12-17,21:07:14, International Garage G,571,59
+2024-12-17,21:07:14, ParkFAST,124,47
+2024-12-17,21:07:14, Long Term Garage,3327,50
+2024-12-17,22:09:38, Domestic Garage,2384,51
+2024-12-17,22:09:38, International Garage A,809,51
+2024-12-17,22:09:38, International Garage G,609,57
+2024-12-17,22:09:38, ParkFAST,123,48
+2024-12-17,22:09:38, Long Term Garage,3375,49
+2024-12-17,23:07:07, Domestic Garage,2490,49
+2024-12-17,23:07:07, International Garage A,947,43
+2024-12-17,23:07:07, International Garage G,648,54
+2024-12-17,23:07:07, ParkFAST,124,47
+2024-12-17,23:07:07, Long Term Garage,3436,48
+2024-12-18,00:09:15, Domestic Garage,2634,46
+2024-12-18,00:09:15, International Garage A,1101,33
+2024-12-18,00:09:15, International Garage G,687,51
+2024-12-18,00:09:15, ParkFAST,124,47
+2024-12-18,00:09:15, Long Term Garage,3491,47
+2024-12-18,01:07:34, Domestic Garage,2685,45
+2024-12-18,01:07:34, International Garage A,1255,24
+2024-12-18,01:07:34, International Garage G,736,48
+2024-12-18,01:07:34, ParkFAST,125,47
+2024-12-18,01:07:34, Long Term Garage,3514,47
+2024-12-18,02:07:30, Domestic Garage,2700,45
+2024-12-18,02:07:30, International Garage A,1349,18
+2024-12-18,02:07:30, International Garage G,757,46
+2024-12-18,02:07:30, ParkFAST,126,47
+2024-12-18,02:07:30, Long Term Garage,3521,47
+2024-12-18,03:06:17, Domestic Garage,2673,46
+2024-12-18,03:06:17, International Garage A,1152,30
+2024-12-18,03:06:17, International Garage G,950,32
+2024-12-18,03:06:17, ParkFAST,127,46
+2024-12-18,03:06:17, Long Term Garage,3517,47
+2024-12-18,04:11:14, Domestic Garage,2668,46
+2024-12-18,04:11:14, International Garage A,1087,34
+2024-12-18,04:11:14, International Garage G,920,35
+2024-12-18,04:11:14, ParkFAST,125,47
+2024-12-18,04:11:14, Long Term Garage,3484,47
+2024-12-18,05:11:50, Domestic Garage,2558,48
+2024-12-18,05:11:50, International Garage A,1058,36
+2024-12-18,05:11:50, International Garage G,869,38
+2024-12-18,05:11:50, ParkFAST,118,50
+2024-12-18,05:11:50, Long Term Garage,3456,48
+2024-12-18,06:06:51, Domestic Garage,2327,53
+2024-12-18,06:06:51, International Garage A,882,47
+2024-12-18,06:06:51, International Garage G,764,46
+2024-12-18,06:06:51, ParkFAST,114,52
+2024-12-18,06:06:51, Long Term Garage,3365,49
+2024-12-18,07:07:03, Domestic Garage,2118,57
+2024-12-18,07:07:03, International Garage A,742,55
+2024-12-18,07:07:03, International Garage G,699,50
+2024-12-18,07:07:03, ParkFAST,108,54
+2024-12-18,07:07:03, Long Term Garage,3270,51
+2024-12-18,08:07:46, Domestic Garage,1974,60
+2024-12-18,08:07:46, International Garage A,607,63
+2024-12-18,08:07:46, International Garage G,653,54
+2024-12-18,08:07:46, ParkFAST,103,56
+2024-12-18,08:07:46, Long Term Garage,3204,52
+2024-12-18,09:06:22, Domestic Garage,1875,62
+2024-12-18,09:06:22, International Garage A,755,54
+2024-12-18,09:06:22, International Garage G,445,68
+2024-12-18,09:06:22, ParkFAST,103,56
+2024-12-18,09:06:22, Long Term Garage,3159,52
+2024-12-18,10:09:13, Domestic Garage,1766,64
+2024-12-18,10:09:13, International Garage A,597,64
+2024-12-18,10:09:13, International Garage G,414,71
+2024-12-18,10:09:13, ParkFAST,103,56
+2024-12-18,10:09:13, Long Term Garage,3068,54
+2024-12-18,11:06:18, Domestic Garage,1719,65
+2024-12-18,11:06:18, International Garage A,484,71
+2024-12-18,11:06:18, International Garage G,392,72
+2024-12-18,11:06:18, ParkFAST,101,57
+2024-12-18,11:06:18, Long Term Garage,3017,54
+2024-12-18,12:07:32, Domestic Garage,1677,66
+2024-12-18,12:07:32, International Garage A,491,70
+2024-12-18,12:07:32, International Garage G,430,69
+2024-12-18,12:07:32, ParkFAST,101,57
+2024-12-18,12:07:32, Long Term Garage,2980,55
+2024-12-18,13:06:21, Domestic Garage,1695,65
+2024-12-18,13:06:21, International Garage A,472,71
+2024-12-18,13:06:21, International Garage G,316,78
+2024-12-18,13:06:21, ParkFAST,102,57
+2024-12-18,13:06:21, Long Term Garage,2965,55
+2024-12-18,14:06:28, Domestic Garage,1744,64
+2024-12-18,14:06:28, International Garage A,488,70
+2024-12-18,14:06:28, International Garage G,342,76
+2024-12-18,14:06:28, ParkFAST,104,56
+2024-12-18,14:06:28, Long Term Garage,2981,55
+2024-12-18,15:06:49, Domestic Garage,1890,61
+2024-12-18,15:06:49, International Garage A,488,70
+2024-12-18,15:06:49, International Garage G,375,73
+2024-12-18,15:06:49, ParkFAST,103,56
+2024-12-18,15:06:49, Long Term Garage,2976,55
+2024-12-18,16:29:09, Domestic Garage,2015,59
+2024-12-18,16:29:09, International Garage A,639,61
+2024-12-18,16:29:09, International Garage G,490,65
+2024-12-18,16:29:09, ParkFAST,103,56
+2024-12-18,16:29:09, Long Term Garage,2980,55
+2024-12-18,17:34:47, Domestic Garage,1935,61
+2024-12-18,17:34:47, International Garage A,546,67
+2024-12-18,17:34:47, International Garage G,549,61
+2024-12-18,17:34:47, ParkFAST,102,57
+2024-12-18,17:34:47, Long Term Garage,3023,54
+2024-12-18,18:32:02, Domestic Garage,2073,58
+2024-12-18,18:32:02, International Garage A,659,60
+2024-12-18,18:32:02, International Garage G,590,58
+2024-12-18,18:32:02, ParkFAST,106,55
+2024-12-18,18:32:02, Long Term Garage,3047,54
+2024-12-18,19:16:04, Domestic Garage,2098,57
+2024-12-18,19:16:04, International Garage A,615,63
+2024-12-18,19:16:04, International Garage G,593,58
+2024-12-18,19:16:04, ParkFAST,107,55
+2024-12-18,19:16:04, Long Term Garage,3059,54
+2024-12-18,20:08:15, Domestic Garage,2202,55
+2024-12-18,20:08:15, International Garage A,637,61
+2024-12-18,20:08:15, International Garage G,599,57
+2024-12-18,20:08:15, ParkFAST,108,54
+2024-12-18,20:08:15, Long Term Garage,3092,53
+2024-12-18,21:07:09, Domestic Garage,2248,54
+2024-12-18,21:07:09, International Garage A,674,59
+2024-12-18,21:07:09, International Garage G,615,56
+2024-12-18,21:07:09, ParkFAST,111,53
+2024-12-18,21:07:09, Long Term Garage,3078,53
+2024-12-18,22:09:18, Domestic Garage,2365,52
+2024-12-18,22:09:18, International Garage A,767,54
+2024-12-18,22:09:18, International Garage G,678,52
+2024-12-18,22:09:18, ParkFAST,117,50
+2024-12-18,22:09:18, Long Term Garage,3105,53
+2024-12-18,23:07:12, Domestic Garage,2475,50
+2024-12-18,23:07:12, International Garage A,833,50
+2024-12-18,23:07:12, International Garage G,694,51
+2024-12-18,23:07:12, ParkFAST,118,50
+2024-12-18,23:07:12, Long Term Garage,3166,52
+2024-12-19,00:09:07, Domestic Garage,2648,46
+2024-12-19,00:09:07, International Garage A,1045,37
+2024-12-19,00:09:07, International Garage G,745,47
+2024-12-19,00:09:07, ParkFAST,119,50
+2024-12-19,00:09:07, Long Term Garage,3193,52
+2024-12-19,01:07:18, Domestic Garage,2706,45
+2024-12-19,01:07:18, International Garage A,1185,28
+2024-12-19,01:07:18, International Garage G,788,44
+2024-12-19,01:07:18, ParkFAST,121,49
+2024-12-19,01:07:18, Long Term Garage,3211,51
+2024-12-19,02:07:21, Domestic Garage,2751,44
+2024-12-19,02:07:21, International Garage A,1159,30
+2024-12-19,02:07:21, International Garage G,935,33
+2024-12-19,02:07:21, ParkFAST,122,48
+2024-12-19,02:07:21, Long Term Garage,650,90
+2024-12-19,03:06:18, Domestic Garage,2747,44
+2024-12-19,03:06:18, International Garage A,1154,30
+2024-12-19,03:06:18, International Garage G,927,34
+2024-12-19,03:06:18, ParkFAST,122,48
+2024-12-19,03:06:18, Long Term Garage,643,90
+2024-12-19,04:11:15, Domestic Garage,2696,45
+2024-12-19,04:11:15, International Garage A,1191,28
+2024-12-19,04:11:15, International Garage G,887,37
+2024-12-19,04:11:15, ParkFAST,120,49
+2024-12-19,04:11:15, Long Term Garage,595,91
+2024-12-19,05:12:09, Domestic Garage,2575,48
+2024-12-19,05:12:09, International Garage A,1018,38
+2024-12-19,05:12:09, International Garage G,855,39
+2024-12-19,05:12:09, ParkFAST,117,50
+2024-12-19,05:12:09, Long Term Garage,3124,53
+2024-12-19,06:07:01, Domestic Garage,2392,51
+2024-12-19,06:07:01, International Garage A,827,50
+2024-12-19,06:07:01, International Garage G,761,46
+2024-12-19,06:07:01, ParkFAST,112,53
+2024-12-19,06:07:01, Long Term Garage,3045,54
+2024-12-19,07:07:09, Domestic Garage,2180,56
+2024-12-19,07:07:09, International Garage A,655,60
+2024-12-19,07:07:09, International Garage G,693,51
+2024-12-19,07:07:09, ParkFAST,105,56
+2024-12-19,07:07:09, Long Term Garage,2948,55
+2024-12-19,08:07:32, Domestic Garage,2088,57
+2024-12-19,08:07:32, International Garage A,849,49
+2024-12-19,08:07:32, International Garage G,654,53
+2024-12-19,08:07:32, ParkFAST,99,58
+2024-12-19,08:07:32, Long Term Garage,2887,56
+2024-12-19,09:06:15, Domestic Garage,1998,59
+2024-12-19,09:06:15, International Garage A,718,56
+2024-12-19,09:06:15, International Garage G,501,64
+2024-12-19,09:06:15, ParkFAST,99,58
+2024-12-19,09:06:15, Long Term Garage,2577,61
+2024-12-19,10:08:38, Domestic Garage,2137,56
+2024-12-19,10:08:38, International Garage A,670,59
+2024-12-19,10:08:38, International Garage G,490,65
+2024-12-19,10:08:38, ParkFAST,93,61
+2024-12-19,10:08:38, Long Term Garage,2519,62
+2024-12-19,11:06:03, Domestic Garage,2089,57
+2024-12-19,11:06:03, International Garage A,554,66
+2024-12-19,11:06:03, International Garage G,477,66
+2024-12-19,11:06:03, ParkFAST,89,62
+2024-12-19,11:06:03, Long Term Garage,2457,63
+2024-12-19,12:07:10, Domestic Garage,2048,58
+2024-12-19,12:07:10, International Garage A,532,68
+2024-12-19,12:07:10, International Garage G,452,68
+2024-12-19,12:07:10, ParkFAST,89,62
+2024-12-19,12:07:10, Long Term Garage,2404,64
+2024-12-19,13:06:05, Domestic Garage,2154,56
+2024-12-19,13:06:05, International Garage A,486,71
+2024-12-19,13:06:05, International Garage G,462,67
+2024-12-19,13:06:05, ParkFAST,90,62
+2024-12-19,13:06:05, Long Term Garage,2394,64
+2024-12-19,14:06:33, Domestic Garage,1996,59
+2024-12-19,14:06:33, International Garage A,572,65
+2024-12-19,14:06:33, International Garage G,360,74
+2024-12-19,14:06:33, ParkFAST,91,61
+2024-12-19,14:06:33, Long Term Garage,2671,60
+2024-12-19,15:06:47, Domestic Garage,2143,56
+2024-12-19,15:06:47, International Garage A,679,59
+2024-12-19,15:06:47, International Garage G,408,71
+2024-12-19,15:06:47, ParkFAST,88,63
+2024-12-19,15:06:47, Long Term Garage,2652,60
+2024-12-19,16:27:41, Domestic Garage,2249,54
+2024-12-19,16:27:41, International Garage A,754,54
+2024-12-19,16:27:41, International Garage G,468,67
+2024-12-19,16:27:41, ParkFAST,89,62
+2024-12-19,16:27:41, Long Term Garage,2622,60
+2024-12-19,17:34:20, Domestic Garage,2287,53
+2024-12-19,17:34:20, International Garage A,483,71
+2024-12-19,17:34:20, International Garage G,512,64
+2024-12-19,17:34:20, ParkFAST,90,62
+2024-12-19,17:34:20, Long Term Garage,2617,60
+2024-12-19,18:29:10, Domestic Garage,2363,52
+2024-12-19,18:29:10, International Garage A,542,67
+2024-12-19,18:29:10, International Garage G,537,62
+2024-12-19,18:29:10, ParkFAST,91,61
+2024-12-19,18:29:10, Long Term Garage,2623,60
+2024-12-19,19:10:59, Domestic Garage,2213,55
+2024-12-19,19:10:59, International Garage A,496,70
+2024-12-19,19:10:59, International Garage G,518,63
+2024-12-19,19:10:59, ParkFAST,90,62
+2024-12-19,19:10:59, Long Term Garage,2639,60

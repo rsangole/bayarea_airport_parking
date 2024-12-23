@@ -1,9 +1,5 @@
 name: Fetch Data
 
-on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour
-
 jobs:
   fetch_data:
     runs-on: ubuntu-latest
