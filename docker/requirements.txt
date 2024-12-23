@@ -157,6 +157,7 @@ requests==2.32.3
     # via
     #   bayarea-airport-parking (pyproject.toml)
     #   gt
+    #   zenrows
 rpds-py==0.22.3
     # via
     #   jsonschema
@@ -211,3 +212,5 @@ wcwidth==0.2.13
     # via prompt-toolkit
 websockets==14.1
     # via shiny
+zenrows==1.4.0
+    # via bayarea-airport-parking (pyproject.toml)
